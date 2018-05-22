@@ -1,5 +1,13 @@
 # Kubernetes not the hardest way (or "Provisioning a Kubernetes Cluster on AWS using Terraform and Ansible")
 
+
+https://opencredo.com/kubernetes-aws-terraform-ansible-1/
+
+https://opencredo.com/kubernetes-aws-terraform-ansible-2/
+
+https://opencredo.com/kubernetes-aws-terraform-ansible-3/
+
+
 A worked example to provision a Kubernetes cluster on AWS from scratch, using Terraform and Ansible. A scripted version of the famous tutorial [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way).
 
 See the companion article https://opencredo.com/kubernetes-aws-terraform-ansible-1/ for details about goals, design decisions and simplifications.
